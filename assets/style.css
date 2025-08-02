@@ -1,0 +1,32 @@
+/* Estilos Globales */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+/* Navegación */
+.navbar { background: #004080; padding: 1rem; position: sticky; top: 0; }
+.navbar ul { display: flex; list-style: none; justify-content: center; }
+.navbar li { margin: 0 1rem; }
+.navbar a { color: #fff; text-decoration: none; font-weight: bold; }
+.navbar a:hover { text-decoration: underline; }
+
+/* Secciones */
+.section { padding: 4rem 2rem; max-width: 800px; margin: 0 auto; }
+.section:nth-child(even) { background: #f4f4f4; }
+.section-block p { margin-bottom: 2rem; font-style: italic;}
+.skills { display: flex; flex-wrap: wrap; gap: 1rem;font-style: italic; }
+.skills li { background: #e0e0e0; padding: 0.5rem; border-radius: 4px; }
+
+/* Galería de Portafolio */
+.gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; }
+.gallery img { width: 100%; height: auto; display: block; border-radius: 8px; }
+.gallery figcaption { text-align: center; margin-top: 0.5rem; }
+
+/* Formulario de Contacto */
+form { display: flex; flex-direction: column; }
+label { margin-top: 1rem; }
+input, textarea { padding: 0.5rem; margin-top: 0.5rem; border: 1px solid #ccc; border-radius: 4px; }
+button { margin-top: 1rem; padding: 0.75rem; border: none; border-radius: 4px; background: #004080; color: #fff; font-size: 1rem; cursor: pointer; }
+button:hover { background: #003366; }
+
+/* Footer */
+footer { text-align: center; padding: 2rem 0; background: #222; color: #fff; }
