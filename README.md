@@ -6,5 +6,5 @@
 ![imagen_referencial2](assets/img/rdm2.jpg)
 
 <h3>Forks realizados</h3>
-https://github.com/Zebastopol/jcmg19.github.io
-https://github.com/Zebastopol/ConstanzaJCastilloS.github.io
+<p>https://github.com/Zebastopol/jcmg19.github.io</p>
+<p>https://github.com/Zebastopol/ConstanzaJCastilloS.github.io</p>
