@@ -12,8 +12,8 @@ body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
 /* Secciones */
 .section { padding: 4rem 2rem; max-width: 800px; margin: 0 auto; }
 .section:nth-child(even) { background: #f4f4f4; }
-.section-block p { margin-bottom: 2rem; font-style: italic;}
-.skills { display: flex; flex-wrap: wrap; gap: 1rem;font-style: italic; }
+.section-block { margin-bottom: 2rem; margin-top: 1rem; font-style: italic;}
+.skills p { display: flex; flex-wrap: wrap; gap: 1rem;font-style: italic; }
 .skills li { background: #e0e0e0; padding: 0.5rem; border-radius: 4px; }
 
 /* Galería de Portafolio */
