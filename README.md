@@ -2,4 +2,5 @@
 
 <h2>Proyecto Final Módulo 1-Introducción al Desarrollo Web</h2>
 
-![imagen_referencial]()
+![imagen_referencial](assets/img/rdm1.jpg)
+![imagen_referencial2](assets/img/rdm2.jpg)
